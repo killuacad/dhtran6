@@ -1,0 +1,20 @@
+commit 17408543fbfd338239a333e673d4cb400e6d675d
+Merge: 52c9f1e aff85e3
+Author: killuacad <59584607+killuacad@users.noreply.github.com>
+Date:   Mon Jan 13 18:24:24 2020 -0500
+
+    Merge pull request #1 from killuacad/readme-edits
+    
+    Update README.md
+
+commit aff85e3106625a4eb07d4d3cfe11771dcbd6ba67
+Author: killuacad <59584607+killuacad@users.noreply.github.com>
+Date:   Mon Jan 13 18:23:51 2020 -0500
+
+    Update README.md
+
+commit 52c9f1ea0a23553cbd207177e46a80bfde450352
+Author: killuacad <59584607+killuacad@users.noreply.github.com>
+Date:   Mon Jan 13 18:23:00 2020 -0500
+
+    Initial commit
